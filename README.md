@@ -1,20 +1,19 @@
+<body>
+
 ### Hi, I am Jack  👋,
 
 
 🔭 I’m a Full Stack Web Developer currently working on projects in TypeScript with React, Typescript with Node.js and Typescript with Angular.  
 
-📫 **How to reach me: https://www.linkedin.com/in/jack-amsterdam/**
+📫 **How to reach me: https://www.linkedin.com/in/jack-amsterdam/**  <a href="https://www.linkedin.com/in/jack-amsterdam/" target="_blank">    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
 Skills: 
 Typescript with React + Redux ,Node.js + Express and Angular. MongoDB + Mongoose | Docker | MySQL | JavaScript| ES5+ | PHP | HTML5 | CSS3 | SCSS |Regex | jQuery | MUI | Data Structures | Algorithms | JWT
 
-
-[![Jack's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jackamsterdam)](https://github.com/anuraghazra/github-readme-stats)
-
 [![wakatime](https://wakatime.com/badge/user/a78fee14-66a3-4481-8db3-b8983c271faf.svg)](https://wakatime.com/@a78fee14-66a3-4481-8db3-b8983c271faf)
 
-
-### Technologies
+ ### Technologies
 - - - -
  <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-35495E?style=for-the-badge&logo=TypeScript&logoColor=4FC08D" />
@@ -42,6 +41,28 @@ Typescript with React + Redux ,Node.js + Express and Angular. MongoDB + Mongoose
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
  </p>
  
+ 
+ 
+ 
+ 
+ 
+[![Jack's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jackamsterdam)](https://github.com/anuraghazra/github-readme-stats)
+
+
+ Wakatime Stats
+
+  
+
+  <p>
+  <img   src="https://wakatime.com/share/@jackamsterdam/0897ca72-6bc5-48e7-83b8-715298c21f0a.png" height="300" width="500">
+ </p>
+ <p>
+<img src="https://wakatime.com/share/@jackamsterdam/4d171af5-ce85-4bf2-8783-853a1e0d0daf.png" height="300" width="500">
+</p>
+
+
+
+ 
  ### My Github Stats 
 - - - -
                                                                 
@@ -54,14 +75,14 @@ Typescript with React + Redux ,Node.js + Express and Angular. MongoDB + Mongoose
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackamsterdam&repo=Followers-React-Node-mysql-Project)](https://github.com/jackamsterdam/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackamsterdam)](https://github.com/jackamsterdam/github-readme-stats)
 
- 
- 
- 
- 
- 
- 
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackamsterdam)](https://github.com/jackamsterdam/github-readme-stats)
+-->
+
+
+</body>
+
 
 
 <!--
@@ -77,5 +98,28 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/jack-amsterdam/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+    ## Wakatime Stats
+> #### Expand to see details of my daily coding activities from my Code Editor
+<details>
+  <summary> 
+    WakaTime Dashboard
+  </summary>
+  <p>
+    <img src="https://wakatime.com/share/@a78fee14-66a3-4481-8db3-b8983c271faf/e86fcd2a-8788-41d1-934a-e6c4389ef260.svg" height="400" width="600">
+  </p>
+</details>
+
+ ## Github Trophies
+> #### Expand to see my Github trophies 
+<details>
+  <summary> 
+    Github Trophies
+  </summary>
+  <p>
+    <img src="https://github-profile-trophy.vercel.app/?username=jackamsterdam&theme=algolia&column=4">
+  </p>
+</details>
+ 
 -->
 <figure><embed src="https://wakatime.com/share/@a78fee14-66a3-4481-8db3-b8983c271faf/e86fcd2a-8788-41d1-934a-e6c4389ef260.svg"></embed></figure>
