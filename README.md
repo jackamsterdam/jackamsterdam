@@ -46,7 +46,6 @@ Typescript with React + Redux ,Node.js + Express and Angular. MongoDB + Mongoose
  
  
  
-[![Jack's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jackamsterdam)](https://github.com/anuraghazra/github-readme-stats)
 
 
  Wakatime Stats
