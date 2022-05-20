@@ -7,7 +7,7 @@
 🔭 I’m a Full Stack Web Developer currently working on projects in TypeScript with React, Typescript with Node.js and Typescript with Angular.  
 
 📫 **How to reach me: https://www.linkedin.com/in/jack-amsterdam/** 
-
+  
 Skills: 
 Typescript with React + Redux ,Node.js + Express and Angular. MongoDB + Mongoose | Docker | MySQL | JavaScript| ES5+ | PHP | HTML5 | CSS3 | SCSS |Regex | jQuery | MUI | Data Structures | Algorithms | JWT
 
@@ -79,7 +79,12 @@ Typescript with React + Redux ,Node.js + Express and Angular. MongoDB + Mongoose
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackamsterdam)](https://github.com/jackamsterdam/github-readme-stats)
 -->
-
+  
+ <a href="https://www.linkedin.com/in/jack-amsterdam/" target="_blank">    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jackamsterdam@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/mail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+ </a>
 
 </body>
 
