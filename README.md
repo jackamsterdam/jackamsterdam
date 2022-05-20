@@ -1,12 +1,12 @@
 <body>
 
-### Hi, I am Jack  👋,
+### Hi, I am Jack  👋,  <a href="https://www.linkedin.com/in/jack-amsterdam/" target="_blank">    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
 
 🔭 I’m a Full Stack Web Developer currently working on projects in TypeScript with React, Typescript with Node.js and Typescript with Angular.  
 
-📫 **How to reach me: https://www.linkedin.com/in/jack-amsterdam/**  <a href="https://www.linkedin.com/in/jack-amsterdam/" target="_blank">    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+📫 **How to reach me: https://www.linkedin.com/in/jack-amsterdam/** 
 
 Skills: 
 Typescript with React + Redux ,Node.js + Express and Angular. MongoDB + Mongoose | Docker | MySQL | JavaScript| ES5+ | PHP | HTML5 | CSS3 | SCSS |Regex | jQuery | MUI | Data Structures | Algorithms | JWT
@@ -54,10 +54,10 @@ Typescript with React + Redux ,Node.js + Express and Angular. MongoDB + Mongoose
   
 
   <p>
-  <img   src="https://wakatime.com/share/@jackamsterdam/0897ca72-6bc5-48e7-83b8-715298c21f0a.png" height="300" width="500">
+  <img   src="https://wakatime.com/share/@jackamsterdam/0897ca72-6bc5-48e7-83b8-715298c21f0a.png" height="400" width="600">
  </p>
  <p>
-<img src="https://wakatime.com/share/@jackamsterdam/4d171af5-ce85-4bf2-8783-853a1e0d0daf.png" height="300" width="500">
+<img src="https://wakatime.com/share/@jackamsterdam/4d171af5-ce85-4bf2-8783-853a1e0d0daf.png" height="400" width="600">
 </p>
 
 
