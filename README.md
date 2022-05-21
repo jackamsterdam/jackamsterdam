@@ -3,6 +3,7 @@
 ### Hi, I am Jack  👋,  <a href="https://www.linkedin.com/in/jack-amsterdam/" target="_blank">    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
+ - - - -
 
 🔭 I’m a Full Stack Web Developer currently working on projects in TypeScript with React, Typescript with Node.js and Typescript with Angular.  
 
@@ -48,9 +49,9 @@ Typescript with React + Redux ,Node.js + Express and Angular. MongoDB + Mongoose
  
 
 
- Wakatime Stats
+ ### Wakatime Stats
+  - - - -
 
-  
 
   <p>
   <img   src="https://wakatime.com/share/@jackamsterdam/0897ca72-6bc5-48e7-83b8-715298c21f0a.png" height="400" width="600">
@@ -71,10 +72,10 @@ Typescript with React + Redux ,Node.js + Express and Angular. MongoDB + Mongoose
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=JackAmsterdam&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Jack's streak" /></p>
 
-
+- - - -
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackamsterdam&repo=Followers-React-Node-mysql-Project)](https://github.com/jackamsterdam/github-readme-stats)
 
-
+- - - -
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackamsterdam)](https://github.com/jackamsterdam/github-readme-stats)
 -->
