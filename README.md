@@ -10,7 +10,7 @@
 📫 **How to reach me: https://www.linkedin.com/in/jack-amsterdam/** 
   
 Skills: 
-Typescript with React + Redux ,Node.js + Express and Angular. MongoDB + Mongoose | Docker | MySQL | JavaScript| ES5+ | PHP | HTML5 | CSS3 | SCSS |Regex | jQuery | MUI | Data Structures | Algorithms | JWT
+Typescript with React + Redux ,Node.js + Express and Angular. MongoDB + Mongoose MySQL | JavaScript | ES5+ | PHP | HTML5 | CSS3 | SCSS | Regex | Docker | jQuery | MUI | Data Structures | Algorithms | JWT
 
 [![wakatime](https://wakatime.com/badge/user/a78fee14-66a3-4481-8db3-b8983c271faf.svg)](https://wakatime.com/@a78fee14-66a3-4481-8db3-b8983c271faf)
 
