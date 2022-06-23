@@ -74,7 +74,7 @@ Typescript with React + Redux ,Node.js + Express and Angular. MongoDB + Mongoose
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=JackAmsterdam&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Jack's streak" /></p>
 
 - - - -
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackamsterdam&repo=Followers-React-Node-mysql-Project)](https://github.com/jackamsterdam/github-readme-stats)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackamsterdam&repo=Followers-React-Node-mysql-Project)](https://github.com/jackamsterdam/github-readme-stats) -->
 
 - - - -
 <!--
