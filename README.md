@@ -13,7 +13,7 @@
 Skills: 
 Typescript with React + Redux ,Node.js + Express and Angular. MongoDB + Mongoose MySQL | JavaScript | ES5+ | PHP | HTML5 | CSS3 | SCSS | Regex | Docker | jQuery | MUI | Data Structures | Algorithms | JWT
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackamsterdam&repo=Followers-React-Node-mysql-Project)](https://github.com/jackamsterdam/github-readme-stats)
+<!--   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackamsterdam&repo=Followers-React-Node-mysql-Project)](https://github.com/jackamsterdam/github-readme-stats) -->
   
 [![wakatime](https://wakatime.com/badge/user/a78fee14-66a3-4481-8db3-b8983c271faf.svg)](https://wakatime.com/@a78fee14-66a3-4481-8db3-b8983c271faf)
  
@@ -76,7 +76,8 @@ Typescript with React + Redux ,Node.js + Express and Angular. MongoDB + Mongoose
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=JackAmsterdam&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Jack's streak" /></p>
 
 - - - -
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackamsterdam&repo=Followers-React-Node-mysql-Project)](https://github.com/jackamsterdam/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackamsterdam&repo=Followers-React-Node-mysql-Project)]
+
 
 - - - -
 <!--
