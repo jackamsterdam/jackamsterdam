@@ -3,7 +3,7 @@
   
 ### Hi, I am Jack  👋,  <a href="https://www.linkedin.com/in/jack-amsterdam/" target="_blank">    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackamsterdam&repo=Followers-React-Node-mysql-Project)](https://github.com/jackamsterdam/github-readme-stats)
+
  - - - -
 
 🔭 I’m a Full Stack Web Developer currently working on projects in TypeScript with React, Typescript with Node.js and Typescript with Angular.  
@@ -14,7 +14,7 @@ Skills:
 Typescript with React + Redux ,Node.js + Express and Angular. MongoDB + Mongoose MySQL | JavaScript | ES5+ | PHP | HTML5 | CSS3 | SCSS | Regex | Docker | jQuery | MUI | Data Structures | Algorithms | JWT
 
 [![wakatime](https://wakatime.com/badge/user/a78fee14-66a3-4481-8db3-b8983c271faf.svg)](https://wakatime.com/@a78fee14-66a3-4481-8db3-b8983c271faf)
-
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackamsterdam&repo=Followers-React-Node-mysql-Project)](https://github.com/jackamsterdam/github-readme-stats)
  ### Technologies
 - - - -
  <p align="center">
