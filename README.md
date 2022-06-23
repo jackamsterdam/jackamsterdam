@@ -35,7 +35,7 @@ Typescript with React + Redux ,Node.js + Express and Angular. MongoDB + Mongoose
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-   <img src="https://img.shields.io/badge/AngularMaterial-323330?style=for-the-badge&logo=AngularMaterial&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Angular-material-777BB4?style=for-the-badge&logo=Angular-Material&logoColor=white" />
   <img src="https://img.shields.io/badge/Material-ui-00000F?style=for-the-badge&logo=material-ui&logoColor=white" />
   <img src="https://img.shields.io/badge/jwt-0769AD?style=for-the-badge&logo=jwt&logoColor=white" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
