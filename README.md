@@ -13,8 +13,10 @@
 Skills: 
 Typescript with React + Redux ,Node.js + Express and Angular. MongoDB + Mongoose MySQL | JavaScript | ES5+ | PHP | HTML5 | CSS3 | SCSS | Regex | Docker | jQuery | MUI | Data Structures | Algorithms | JWT
 
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackamsterdam&repo=Followers-React-Node-mysql-Project)](https://github.com/jackamsterdam/github-readme-stats)
+  
 [![wakatime](https://wakatime.com/badge/user/a78fee14-66a3-4481-8db3-b8983c271faf.svg)](https://wakatime.com/@a78fee14-66a3-4481-8db3-b8983c271faf)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackamsterdam&repo=Followers-React-Node-mysql-Project)](https://github.com/jackamsterdam/github-readme-stats)
+ 
  ### Technologies
 - - - -
  <p align="center">
