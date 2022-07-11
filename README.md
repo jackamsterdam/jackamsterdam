@@ -11,7 +11,7 @@
 📫 **How to reach me: https://www.linkedin.com/in/jack-amsterdam/** 
  
 Skills: 
-Typescript with React + Redux ,Node.js + Express and Angular. MongoDB + Mongoose MySQL | JavaScript | ES5+ | PHP | HTML5 | CSS3 | SCSS | Regex | Docker | jQuery | MUI | Data Structures | Algorithms | JWT
+Typescript with React + Redux ,Node.js + Express and Angular. MongoDB + Mongoose MySQL | JavaScript | ES5+ | PHP | HTML5 | CSS3 | SCSS | Git | Regex | Docker | jQuery | MUI | Data Structures | Algorithms | JWT
 
 <!--   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackamsterdam&repo=Followers-React-Node-mysql-Project)](https://github.com/jackamsterdam/github-readme-stats) -->
   
@@ -40,6 +40,7 @@ Typescript with React + Redux ,Node.js + Express and Angular. MongoDB + Mongoose
   <img src="https://img.shields.io/badge/jwt-0769AD?style=for-the-badge&logo=jwt&logoColor=white" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
   <img src="https://img.shields.io/badge/Regex-00000F?style=for-the-badge&logo=regex&logoColor=white" />
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
