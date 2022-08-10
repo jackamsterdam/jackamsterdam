@@ -44,6 +44,9 @@ Typescript with React + Redux ,Node.js + Express and Angular. MongoDB + Mongoose
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
   <img src="https://img.shields.io/badge/Regex-00000F?style=for-the-badge&logo=regex&logoColor=white" />
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/jest-0769AD?style=for-the-badge&logo=jest&logoColor=white" />
+   <img src="https://img.shields.io/badge/React-testing-library-323330?style=for-the-badge&logo=React-testing-library&logoColor=F7DF1E" />
+   <img src="https://img.shields.io/badge/Mocha-000000?style=for-the-badge&logo=mocha&logoColor=white" />
  </p>
  
  
