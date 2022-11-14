@@ -6,7 +6,7 @@
 
  - - - -
 
-🔭 I’m a Full Stack Web Developer currently working on projects in TypeScript with React, Typescript with Node.js and Typescript with Angular.  
+🔭 I’m a Full Stack Web Developer currently working on projects in TypeScript with React, TypeScript with Node.js and TypeScript with Angular.  
 
 📫 **How to reach me: https://www.linkedin.com/in/jack-amsterdam/** 
  
