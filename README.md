@@ -55,6 +55,12 @@ Typescript with React + Redux ,Node.js + Express and Angular. MongoDB + Mongoose
   <img src="https://img.shields.io/badge/Mocha-000000?style=for-the-badge&logo=mocha&logoColor=white" />
    <img src="https://img.shields.io/badge/Java-CB3837?style=for-the-badge&logo=Java&logoColor=white" />
    <img src="https://img.shields.io/badge/Markdown-1572B6?style=for-the-badge&logo=Markdown&logoColor=white" />
+   
+<!--    future:
+   jsdocs
+   yaml yml 
+   next.js 
+   nest.js -->
 
  </p>
  
