@@ -56,7 +56,7 @@ Typescript with React + Redux ,Node.js + Express and Angular. MongoDB + Mongoose
   <img src="https://img.shields.io/badge/Mocha-000000?style=for-the-badge&logo=mocha&logoColor=white" />
    <img src="https://img.shields.io/badge/Java-CB3837?style=for-the-badge&logo=Java&logoColor=white" />
    <img src="https://img.shields.io/badge/Markdown-1572B6?style=for-the-badge&logo=Markdown&logoColor=white" />
-   
+   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 <!--    future:
    jsdocs
    yaml yml 
