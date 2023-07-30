@@ -57,6 +57,7 @@ Typescript with React + Redux ,Node.js + Express and Angular. MongoDB + Mongoose
    <img src="https://img.shields.io/badge/Java-CB3837?style=for-the-badge&logo=Java&logoColor=white" />
    <img src="https://img.shields.io/badge/Markdown-1572B6?style=for-the-badge&logo=Markdown&logoColor=white" />
    ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+   Dev.to blog	![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
 <!--    future:
    jsdocs
    yaml yml 
