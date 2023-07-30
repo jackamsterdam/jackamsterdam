@@ -20,7 +20,7 @@ Typescript with React + Redux ,Node.js + Express and Angular. MongoDB + Mongoose
  ### Technologies
 - - - -
  <p align="center">
-    ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+   
   <img src="https://img.shields.io/badge/TypeScript-35495E?style=for-the-badge&logo=TypeScript&logoColor=4FC08D" />
       <img src="https://img.shields.io/badge/React-1572B6?style=for-the-badge&logo=React&logoColor=white" />
      <img src="https://img.shields.io/badge/Angular-FF2D20?style=for-the-badge&logo=angular&logoColor=white" />
@@ -57,9 +57,7 @@ Typescript with React + Redux ,Node.js + Express and Angular. MongoDB + Mongoose
   <img src="https://img.shields.io/badge/Mocha-000000?style=for-the-badge&logo=mocha&logoColor=white" />
    <img src="https://img.shields.io/badge/Java-CB3837?style=for-the-badge&logo=Java&logoColor=white" />
    <img src="https://img.shields.io/badge/Markdown-1572B6?style=for-the-badge&logo=Markdown&logoColor=white" />
-   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-   Dev.to blog	![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
-    ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
 <!--    future:
    jsdocs
    yaml yml 
