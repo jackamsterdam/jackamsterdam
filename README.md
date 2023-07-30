@@ -23,12 +23,13 @@ Typescript with React + Redux ,Node.js + Express and Angular. MongoDB + Mongoose
   <!-- take badges from here!!                    https://github.com/Ileriayo/markdown-badges                                         -->
   <img src="https://img.shields.io/badge/TypeScript-35495E?style=for-the-badge&logo=TypeScript&logoColor=4FC08D" />
       <img src="https://img.shields.io/badge/React-1572B6?style=for-the-badge&logo=React&logoColor=white" />
-     <img src="https://img.shields.io/badge/Angular-FF2D20?style=for-the-badge&logo=angular&logoColor=white" />
+     <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-38B2AC?style=for-the-badge&logo=Node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-8BC0D0?style=for-the-badge&logo=redux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Express-21759B?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Mongoose-FF2D20?style=for-the-badge&logo=mongoose&logoColor=white" />
+   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
     <img src="https://img.shields.io/badge/C#-21759B?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-232F3E?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -36,7 +37,7 @@ Typescript with React + Redux ,Node.js + Express and Angular. MongoDB + Mongoose
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular-Material-777BB4?style=for-the-badge&logo=Angular-Material&logoColor=white" />
   <img src="https://img.shields.io/badge/Material-ui-00000F?style=for-the-badge&logo=material-ui&logoColor=white" />
    <img src="https://img.shields.io/badge/PhPMyAdmin-563D7C?style=for-the-badge&logo=PhpMyAdmin&logoColor=white" />
@@ -62,14 +63,13 @@ Typescript with React + Redux ,Node.js + Express and Angular. MongoDB + Mongoose
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
 
   <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A" />
+  <img src="https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" />
   <img src="" />
-  <img src="" />
-  <img src="" />
-  <img src="" />
-  <img src="" />
-  <img src="" />
-  <img src="" />
-  ![Codecademy]https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A
+ 
   
 <!--    future:
    jsdocs
