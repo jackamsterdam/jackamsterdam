@@ -82,8 +82,8 @@ Typescript with React + Redux ,Node.js + Express and Angular. MongoDB + Mongoose
    nest.js 
 
      <!-- take badges from here!!                    https://github.com/Ileriayo/markdown-badges                                         -->
-   <!-<img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />->
-   <!- https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens -->
+   <!--<img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />-->
+   <!-- https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens -->
    
    -->
 
