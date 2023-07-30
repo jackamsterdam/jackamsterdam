@@ -40,10 +40,12 @@ Typescript with React + Redux ,Node.js + Express and Angular. MongoDB + Mongoose
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular-Material-777BB4?style=for-the-badge&logo=Angular-Material&logoColor=white" />
   <img src="https://img.shields.io/badge/Material-ui-00000F?style=for-the-badge&logo=material-ui&logoColor=white" />
+     <img src="https://img.shields.io/badge/Material-ui-00000F?style=for-the-badge&logo=mui&logoColor=white" />
+<img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
    <img src="https://img.shields.io/badge/PhPMyAdmin-563D7C?style=for-the-badge&logo=PhpMyAdmin&logoColor=white" />
    <img src="https://img.shields.io/badge/styled-components-5E5C5C?style=for-the-badge&logo=styled-components&logoColor=white" />
   <img src="https://img.shields.io/badge/Joi-Validation-0769AD?style=for-the-badge&logo=Joi-Validation&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
    
 
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -53,6 +55,8 @@ Typescript with React + Redux ,Node.js + Express and Angular. MongoDB + Mongoose
     <img src="https://img.shields.io/badge/Bootstrap-21759B?style=for-the-badge&logo=Bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
     <img src="https://img.shields.io/badge/jsonwebtoken-0769AD?style=for-the-badge&logo=jsonwebtoken&logoColor=white" />
+   <!- https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens -->
+   
      <img src="https://img.shields.io/badge/React-Native-E34F26?style=for-the-badge&logo=React-Native&logoColor=white" />
    <img src="https://img.shields.io/badge/Heroku-000000?style=for-the-badge&logo=Heroku&logoColor=white" />
   <img src="https://img.shields.io/badge/jest-0769AD?style=for-the-badge&logo=jest&logoColor=white" />
