@@ -87,6 +87,8 @@ Typescript with React + Redux ,Node.js + Express and Angular. MongoDB + Mongoose
    next.js 
    nest.js 
 
+   ->
+
      <!-- take badges from here!!                    https://github.com/Ileriayo/markdown-badges                                         -->
  
    <!-- https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens -->
