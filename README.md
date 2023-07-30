@@ -20,7 +20,7 @@ Typescript with React + Redux ,Node.js + Express and Angular. MongoDB + Mongoose
  ### Technologies
 - - - -
  <p align="center">
-   
+  <!-- take badges from here!!                    https://github.com/Ileriayo/markdown-badges                                         -->
   <img src="https://img.shields.io/badge/TypeScript-35495E?style=for-the-badge&logo=TypeScript&logoColor=4FC08D" />
       <img src="https://img.shields.io/badge/React-1572B6?style=for-the-badge&logo=React&logoColor=white" />
      <img src="https://img.shields.io/badge/Angular-FF2D20?style=for-the-badge&logo=angular&logoColor=white" />
@@ -61,7 +61,7 @@ Typescript with React + Redux ,Node.js + Express and Angular. MongoDB + Mongoose
    <img src="https://img.shields.io/badge/Markdown-1572B6?style=for-the-badge&logo=Markdown&logoColor=white" />
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
 
-  <img src="(https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)" />
+  <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A" />
   <img src="" />
   <img src="" />
   <img src="" />
