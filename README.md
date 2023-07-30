@@ -46,17 +46,17 @@ Typescript with React + Redux ,Node.js + Express and Angular. MongoDB + Mongoose
   <img src="https://img.shields.io/badge/Joi-Validation-0769AD?style=for-the-badge&logo=Joi-Validation&logoColor=white" /> 
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
   <img src="https://img.shields.io/badge/regex-00000F?style=for-the-badge&logo=regex&logoColor=white" />
     <img src="https://img.shields.io/badge/Bootstrap-21759B?style=for-the-badge&logo=Bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
     <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
-     <img src="https://img.shields.io/badge/React-Native-E34F26?style=for-the-badge&logo=React-Native&logoColor=white" />
+     <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
    <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
-  <img src="https://img.shields.io/badge/jest-0769AD?style=for-the-badge&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/testing-library-0769AD?style=for-the-badge&logo=jwt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mocha-000000?style=for-the-badge&logo=mocha&logoColor=white" />
+  <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" />
+  <img src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white" />
    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
    <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
@@ -76,8 +76,8 @@ Typescript with React + Redux ,Node.js + Express and Angular. MongoDB + Mongoose
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
-  <img src="" /> 
-    <img src="" /> 
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" /> 
       <img src="" /> 
         <img src="" /> 
         
