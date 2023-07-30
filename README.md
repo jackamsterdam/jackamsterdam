@@ -78,8 +78,7 @@ Typescript with React + Redux ,Node.js + Express and Angular. MongoDB + Mongoose
 
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> 
     <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" /> 
-      <img src="" /> 
-        <img src="" /> 
+ 
         
   
 <!--    future:
