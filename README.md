@@ -69,7 +69,7 @@ Typescript with React + Redux ,Node.js + Express and Angular. MongoDB + Mongoose
   <img src="" />
   <img src="" />
   <img src="" />
-  
+  ![Codecademy]https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A
   
 <!--    future:
    jsdocs
