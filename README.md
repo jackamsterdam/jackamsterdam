@@ -27,7 +27,7 @@ Typescript with React + Redux ,Node.js + Express and Angular. MongoDB + Mongoose
   <img src="https://img.shields.io/badge/Node.js-38B2AC?style=for-the-badge&logo=Node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-8BC0D0?style=for-the-badge&logo=redux&logoColor=black" />
   <img src="https://img.shields.io/badge/Express-21759B?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-21759B?style=for-the-badge&logo=MongoDB&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Mongoose-FF2D20?style=for-the-badge&logo=mongoose&logoColor=white" />
     <img src="https://img.shields.io/badge/C#-21759B?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-232F3E?style=for-the-badge&logo=docker&logoColor=white" />
@@ -65,8 +65,7 @@ Typescript with React + Redux ,Node.js + Express and Angular. MongoDB + Mongoose
    nest.js -->
 
  </p>
- 
-  ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+
 
 
 
