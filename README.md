@@ -98,9 +98,9 @@ Typescript with React + Redux ,Node.js + Express and Angular. MongoDB + Mongoose
 
 <!--
 https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD 
-https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase
+https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase-->
 
--->
+
  </p>
 
 
