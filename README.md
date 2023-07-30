@@ -87,8 +87,11 @@ Typescript with React + Redux ,Node.js + Express and Angular. MongoDB + Mongoose
  
  ### My Github Stats 
 - - - -
-                                                                
+  <!--  
+  Put this back when more commits:
 [![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jackamsterdam&hide=contribs,prs,issues,stars&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/JackAmsterdam)
+
+-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackAmsterdam&hide=Ruby,Shell&langs_count=10&layout=compact&theme=vue-dark)](https://github.com/JackAmsterdam)
 
