@@ -28,6 +28,7 @@ Typescript with React + Redux ,Node.js + Express and Angular. MongoDB + Mongoose
   <img src="https://img.shields.io/badge/Express-21759B?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-21759B?style=for-the-badge&logo=MongoDB&logoColor=white" />
   <img src="https://img.shields.io/badge/Mongoose-FF2D20?style=for-the-badge&logo=mongoose&logoColor=white" />
+    <img src="https://img.shields.io/badge/C#-21759B?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-232F3E?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00C7B7?style=for-the-badge&logo=MySQL&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
