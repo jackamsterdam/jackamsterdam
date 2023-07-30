@@ -24,7 +24,7 @@ Typescript with React + Redux ,Node.js + Express and Angular. MongoDB + Mongoose
   <img src="https://img.shields.io/badge/TypeScript-35495E?style=for-the-badge&logo=TypeScript&logoColor=4FC08D" />
       <img src="https://img.shields.io/badge/React-1572B6?style=for-the-badge&logo=React&logoColor=white" />
      <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-38B2AC?style=for-the-badge&logo=Node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-8BC0D0?style=for-the-badge&logo=redux&logoColor=black" />
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -39,8 +39,6 @@ Typescript with React + Redux ,Node.js + Express and Angular. MongoDB + Mongoose
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular-Material-777BB4?style=for-the-badge&logo=Angular-Material&logoColor=white" />
-
-
 <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
    <img src="https://img.shields.io/badge/PhPMyAdmin-563D7C?style=for-the-badge&logo=PhpMyAdmin&logoColor=white" />
    <img src="https://img.shields.io/badge/styled-components-5E5C5C?style=for-the-badge&logo=styled-components&logoColor=white" />
@@ -51,7 +49,7 @@ Typescript with React + Redux ,Node.js + Express and Angular. MongoDB + Mongoose
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
   <img src="https://img.shields.io/badge/regex-00000F?style=for-the-badge&logo=regex&logoColor=white" />
     <img src="https://img.shields.io/badge/Bootstrap-21759B?style=for-the-badge&logo=Bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
     <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
      <img src="https://img.shields.io/badge/React-Native-E34F26?style=for-the-badge&logo=React-Native&logoColor=white" />
    <img src="https://img.shields.io/badge/Heroku-000000?style=for-the-badge&logo=Heroku&logoColor=white" />
