@@ -6,12 +6,12 @@
 
  - - - -
 
-🔭 I’m a Full Stack Web Developer currently working on projects in TypeScript with React, TypeScript with Node.js and TypeScript with Angular.  
+🔭 I’m a Full Stack Web Developer currently working on projects in TypeScript with React, TypeScript with Node.js and TypeScript with Angular. I also work as a CRM developer at Matrix.
 
 📫 **How to reach me: https://www.linkedin.com/in/jack-amsterdam/** 
  
 Skills: 
-Typescript with React + Redux ,Node.js + Express and Angular. MongoDB + Mongoose | MySQL | JavaScript | ES5+ | HTML5 | CSS3 | SCSS | Git | Regex | Docker | jQuery | MUI | Styled-Components | Angular Material | Data Structures | Algorithms | JWT
+Typescript with React + Redux, Node.js + Express and Angular. MongoDB + Mongoose | MySQL | JavaScript | ES5+ | HTML5 | CSS3 | SCSS | Git | Regex | Docker | jQuery | MUI | Styled-Components | Angular Material | Data Structures | Algorithms | JWT
 
 <!--   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackamsterdam&repo=Followers-React-Node-mysql-Project)](https://github.com/jackamsterdam/github-readme-stats) -->
   
