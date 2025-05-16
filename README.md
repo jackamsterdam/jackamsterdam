@@ -6,7 +6,7 @@
 
  - - - -
 
-🔭 I’m a Full Stack Web Developer currently working on projects in TypeScript with React, TypeScript with Node.js and TypeScript with Angular. I also work as a CRM developer at Matrix.
+🔭 I’m a Full Stack Web Developer currently working on projects in TypeScript with React, TypeScript with Node.js and TypeScript with Angular. I also work as a CRM developer at Matrix on several projects and currently on the Zim Shipping project.
 
 📫 **How to reach me: https://www.linkedin.com/in/jack-amsterdam/** 
  
