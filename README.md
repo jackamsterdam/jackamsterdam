@@ -5,12 +5,12 @@
   </a>
 
  - - - -
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=JackAmsterdam&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Jack's streak" /></p>
 
 <!--🔭 I’m a Full Stack Web Developer currently working on projects in TypeScript with React, TypeScript with Node.js and TypeScript with Angular. I also work as a CRM developer at Matrix on several projects and currently on the Zim Shipping project. -->
 
 I’m a **Frontend-Focused Full Stack Developer** with **3+ years of experience** building scalable, user-friendly applications.  
 I specialize in **React, TypeScript, and Node.js**, with additional experience in Vue.js, Angular, and MySQL.  
+💼 Spent 2.5 years as a Full Stack Developer at ZIM Integrated Shipping Services, building enterprise-scale applications in a fully remote team.
 
 - 💼 Built large-scale solutions for **ZIM Integrated Shipping Services** as a remote full stack developer.  
 - 🚀 Delivered freelance **MVPs for startups**, including real-time apps with **Socket.io** and secure payment integrations with **Stripe**.  
