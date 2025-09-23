@@ -12,7 +12,7 @@ I’m a **Frontend-Focused Full Stack Developer** with **3+ years of experience*
 I specialize in **React, TypeScript, and Node.js**, with additional experience in Vue.js, Angular, and MySQL.  
 
 
--💼 Worked for **2.5 years as a Full Stack Developer at ZIM Integrated Shipping Services**, delivering enterprise-scale applications in a fully remote team.  
+💼 Worked for **2.5 years as a Full Stack Developer at ZIM Integrated Shipping Services**, delivering enterprise-scale applications in a fully remote team.  
  
 - 🚀 Delivered freelance **MVPs for startups**, including real-time apps with **Socket.io** and secure payment integrations with **Stripe**.  
 - 📦 Published an **NPM package** to streamline TypeScript project scaffolding.  
