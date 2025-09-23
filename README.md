@@ -22,6 +22,15 @@ I specialize in **React, TypeScript, and Node.js**, with additional experience i
 Skills: 
 Typescript with React + Redux, Node.js + Express, C# + .NET and Angular. MongoDB + Mongoose | MySQL | JavaScript | ES5+ | HTML5 | CSS3 | SCSS | Git | Regex | Docker | jQuery | MUI | Styled-Components | Angular Material | Data Structures | Algorithms | JWT
 
+## 🛠️ Core Skills  
+- **Frontend:** React, TypeScript, Vue.js, Angular  
+- **Backend:** Node.js, Express, REST APIs  
+- **Databases:** MySQL, MongoDB  
+- **Other:** Git, Socket.io, JWT, Docker, Power BI (Finance background)  
+
+For a full skill list → check pinned projects below 👇
+
+
 <!--   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackamsterdam&repo=Followers-React-Node-mysql-Project)](https://github.com/jackamsterdam/github-readme-stats) -->
   
 [![wakatime](https://wakatime.com/badge/user/a78fee14-66a3-4481-8db3-b8983c271faf.svg)](https://wakatime.com/@a78fee14-66a3-4481-8db3-b8983c271faf)
