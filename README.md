@@ -26,7 +26,7 @@ Typescript with React + Redux, Node.js + Express, C# + .NET and Angular. MongoDB
 - **Frontend:** React, TypeScript, Vue.js, Angular  
 - **Backend:** Node.js, Express, REST APIs  
 - **Databases:** MySQL, MongoDB  
-- **Other:** Git, Socket.io, JWT, Docker, Power BI (Finance background)  
+- **Other:** Git, Socket.io, JWT 
 
 For a full skill list → check pinned projects below 👇
 
