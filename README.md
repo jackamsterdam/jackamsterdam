@@ -6,17 +6,17 @@
 
  - - - -
 
-🔭 I’m a Full Stack Web Developer currently working on projects in TypeScript with React, TypeScript with Node.js and TypeScript with Angular. I also work as a CRM developer at Matrix on several projects and currently on the Zim Shipping project.
+<!--🔭 I’m a Full Stack Web Developer currently working on projects in TypeScript with React, TypeScript with Node.js and TypeScript with Angular. I also work as a CRM developer at Matrix on several projects and currently on the Zim Shipping project. -->
 
 I’m a **Frontend-Focused Full Stack Developer** with 3+ years of experience building scalable, user-friendly applications.  
 I specialize in **React, TypeScript, and Node.js**, with additional experience in Vue.js, Angular, and MySQL.  
-test
+
 - 💼 Built large-scale solutions for **ZIM Integrated Shipping Services** as a remote full stack developer.  
 - 🚀 Delivered freelance **MVPs for startups**, including real-time apps with **Socket.io** and secure payment integrations with **Stripe**.  
 - 📦 Published an **NPM package** to streamline TypeScript project scaffolding.  
 - 🌍 Passionate about **clean code, scalability, and continuous learning**.  
-📂 Explore my projects below or connect with me on [LinkedIn](https://www.linkedin.com/in/jack-amsterdam/).  
-test
+<!-- 📂 Explore my projects below or connect with me on [LinkedIn](https://www.linkedin.com/in/jack-amsterdam/).  -->
+
 📫 **How to reach me: https://www.linkedin.com/in/jack-amsterdam/** 
  
 Skills: 
