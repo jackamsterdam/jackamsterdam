@@ -6,7 +6,7 @@
 
  - - - -
 https://github-readme-streak-stats.herokuapp.com?user=jackamsterdam&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D
-![Jack's GitHub streak](https://github-readme-streak-stats.herokuapp.com?user=jackamsterdam&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jackamsterdam&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Jack's streak"/>
 </p>
@@ -156,8 +156,8 @@ https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=fir
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackAmsterdam&hide=Ruby,Shell&langs_count=10&layout=compact&theme=vue-dark)](https://github.com/JackAmsterdam)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=JackAmsterdam&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Jack's streak" /></p>
-
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=JackAmsterdam&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Jack's streak" /></p> -->
+![Jack's GitHub streak](https://github-readme-streak-stats.herokuapp.com?user=jackamsterdam&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
 - - - -
 <!-- Doesnt work right now: [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackamsterdam&repo=Followers-React-Node-mysql-Project)]
 (https://github.com/jackamsterdam/github-readme-stats) -->
